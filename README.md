@@ -3,6 +3,8 @@
 
 To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
 
+![Architechture](/arch.jpg)
+
 **Data Description:**
 
 The client will send data in multiple sets of files in batches at a given location. Data will contain Wafer names and 590 columns of different sensor values for each wafer. The last column will have the "Good/Bad" value for each wafer.
